@@ -9,3 +9,7 @@ header , header *{
     margin-right: 3%;
     margin-left: 3%;
 }
+.projects{
+    margin-top: 10px;
+    padding: 5%;
+}
