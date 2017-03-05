@@ -1,5 +1,11 @@
+header , header *{
+      background-color: #3D8EB9;
+      color: #FFF;
+      padding: 4px  ;
+}
+
 .projectBox{
     height: 30%;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 3%;
+    margin-left: 3%;
 }
