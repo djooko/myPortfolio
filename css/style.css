@@ -1,7 +1,7 @@
 header , header *{
-      background-color: #3D8EB9;
-      color: #FFF;
-      padding: 4px  ;
+    background-color: #3D8EB9;
+    color: #FFF;
+    padding: 4px  ;
 }
 
 .projectBox{
@@ -13,3 +13,17 @@ header , header *{
     margin-top: 5px;
     padding-bottom: 5%;
 }
+h1 {
+  font-family: elephant;
+text-align: center;
+}
+header img{
+	width: 200px; height: 160px;
+}
+figure{
+	float: right;
+}  
+
+
+
+
